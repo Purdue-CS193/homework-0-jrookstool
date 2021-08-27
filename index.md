@@ -36,4 +36,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-**This is cool!!! **
+**This is cool!!!**
+
+
+# Jack's First CS193 Homework
+- I love how there are no exams!
+- The TA's teaching the class are super nice!
+- I love how this class will teach us important things for our futures in CS/DS!
+- I really enjoy how this class has already started teaching us things through this homework assignment!
